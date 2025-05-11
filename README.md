@@ -3,7 +3,7 @@
 ## Андреј Гочкков, бр. на индекс 232120
 
 ## Слика од Control Flow Graph
-![image](https://github.com/user-attachments/assets/ffa7b8a5-0d90-4d43-bcef-c9bb17d8ba2f)
+<img src="https://github.com/user-attachments/assets/ffa7b8a5-0d90-4d43-bcef-c9bb17d8ba2f"/>
 
 ## Цикломатичка комплексност
 Формула за цикломатска комплексност:
